@@ -1,91 +1,88 @@
 export const siteConfig = {
-  name: "Tiffanie Huang",
-  title: "University of Chicago, Mathematics B.S.",
-  description: "Portfolio website of Tiffanie Huang",
-  accentColor: "#1d4ed8",
-  social: {
-    email: "tiffaniehuang25@gmail.com",
-    linkedin: "https://www.linkedin.com/in/tiffanie-huang-79a361221",
-    github: "https://github.com/tiffanieh",
-  },
-  aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
-  projects: [
-    {
-      name: "AI Dev Roundup Newsletter",
-      description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+    name: "Tiffanie Huang",
+    title: "University of Chicago, Mathematics B.S.",
+    description: "Portfolio website of Tiffanie Huang",
+    accentColor: "#1d4ed8",
+    social: {
+        email: "tiffaniehuang25@gmail.com",
+        linkedin: "https://www.linkedin.com/in/tiffanie-huang-79a361221",
+        github: "https://github.com/tiffanieh",
     },
-    {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-  ],
-  experience: [
-    {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
-      bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
-      ],
-    },
-    {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
-      bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
-      ],
-    },
-  ],
-  education: [
-    {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
-      ],
-    },
-  ],
-};
+    aboutMe:
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    skills: ["Python (NumPy, Tensorflow, PyTorch, Pandas),", "C", "R", "SQL", "git"],
+    projects: [
+        {
+        name: "Which frame fits? Policy learning with framing for climate change policy attitudes",
+        description:
+            "Evaluating effects of different climate change policy framing through a randomized experiment",
+        link: "https://journals.sagepub.com/doi/10.1177/20531680251414927",
+        skills: ["Python", "R", "experimental design"],
+        },
+        {
+        name: "Underwater computer vision",
+        description:
+            "Transfer learning application for object detection and video summarization of marine dive footage for Schmidt Ocean Institute",
+        link: "https://datascience.uchicago.edu/people/tiffanie-huang/",
+        skills: ["PyTorch", "Docker", "git"],
+        },
+        {
+        name: "Python implementation of Go",
+        description:
+            "Playable Go game, including the game logic, a GUI, a terminal-based interface, a simple game-playing strategy, and tests. Code available upon request.",
+        skills: ["pygame", "pytest", "git"],
+        },
+    ],
+    experience: [
+        {
+        company: "Data Science Institute, The University of Chicago",
+        title: "Course Assistant, Data Science Department",
+        dateRange: "Jan 2024 - Jun 2025",
+        bullets: [
+            "Develop homework rubrics for DATA 11800-11900: Introduction to Data Science I-II and DATA 26100: Statistical Pitfalls & Misinterpretation of Data",
+            "Graded and provided feedback for student assignments, labs, and projects on foundational topics such as probability, statistical methodology, data privacy, ethics, and basic machine learning",
+        ],
+        },
+        {
+        company: "Biological Sciences Division, The University of Chicago",
+        title: "Quantitative Biology Research Fellow to Professor Hae Kyung Im ",
+        dateRange: "Jun 2023 - Jun 2025",
+        bullets: [
+            "Contributed to a growing catalog of human gene functions in a lab focused on analyzing high-dimensional genomic data and developing computational methods to study gene regulation and expression, particularly in relation to complex traits and diseases",
+            "Trained gene expression prediction models for integration into S-Predixcan, a method that utilizes GWAS summary statistics to analyze gene expression associations with complex traits, in a supercomputing environment",
+            "Created scripts to query biosample objects from ENCODE project’s API and annotate target genomic tracks",
+        ],
+        },
+                {
+        company: "Biological Sciences Division, The University of Chicago",
+        title: "Teaching Assistant",
+        dateRange: "Mar 2023 - Jun 2025",
+        bullets: [
+            "Assisted in preparing curriculum for pre-health students for BIOS 20172: Mathematical Modeling for Biology, the quantitative methods course in the pre-med biology sequence that focuses on statistical analysis and mathematical modeling of biological data & processes",
+            "Graded and proofread homework assignments, quizzes, exams; held office hours 3-4 hours a week as well as review sessions; provided supplementary notes and review materials to prepare students for exams and address topics they found challenging",
+            "Introduced students to implementation of computational algorithms for biological data analysis and mathematical modeling using R in office hours and labs",
+        ],
+        },
+        {
+        company: "Data Science Institute, The University of Chicago",
+        title: "Research Assistant, Schmidt Ocean Institute",
+        dateRange: "Jun 2022 - Aug 2022",
+        bullets: [
+            "Under the mentorship of Data Science Institute faculty, collaborated with the Schmidt Ocean Institute to develop an automated pipeline for tagging and classifying underwater video data",
+            "Developed transfer learning application on open-source image databases and pretrained Faster R-CNN model for object detection and transformations of hours of dive footage to expand marine organism image data",
+            "Performed video summarization, identifying key frames to enhance the searchability and accessibility of footage",
+        ],
+        },
+    ],
+    education: [
+        {
+        school: "University of Chicago",
+        degree: "Bachelor of Science in Mathematics",
+        dateRange: "2021 - 2025",
+        achievements: [
+            "Major GPA 3.8 / 4.0",
+            "National Merit Scholar",
+        ],
+        },
+    ],
+    };
