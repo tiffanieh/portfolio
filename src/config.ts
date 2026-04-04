@@ -24,14 +24,20 @@ export const siteConfig = {
         description:
             "Transfer learning application for object detection and video summarization of marine dive footage for Schmidt Ocean Institute",
         link: "https://datascience.uchicago.edu/people/tiffanie-huang/",
-        skills: ["PyTorch", "Docker", "git"],
+        skills: ["Python", "PyTorch", "Docker", "git", "parallel programming"],
         },
         {
         name: "Python implementation of Go",
         description:
-            "Playable Go game, including the game logic, a GUI, a terminal-based interface, a simple game-playing strategy, and tests. Code available upon request.",
-        skills: ["pygame", "pytest", "git"],
+            "Playable Go game, including the game logic, a GUI, a terminal-based interface, a simple game-playing strategy, and tests (code available upon request)",
+        skills: ["Python", "pygame", "pytest", "git"],
         },
+        {
+        name: "Finding gene expression prediction associations across different tissues for growing catalog of human gene functions",
+        description:
+            "Analyzing gene expression associations with complex traits from outputs of ENFORMER-trained prediction models (virtual lab notebook available upon request)",
+        skills: ["Python", "bash", "TensorFlow", "Parsl", "high performance computing"]
+        }
     ],
     experience: [
         {
@@ -45,8 +51,8 @@ export const siteConfig = {
         },
         {
         company: "Biological Sciences Division, The University of Chicago",
-        title: "Quantitative Biology Research Fellow to Professor Hae Kyung Im ",
-        dateRange: "Jun 2023 - Jun 2025",
+        title: "Quantitative Biology Research Fellow / Research Assistant to Professor Hae Kyung Im ",
+        dateRange: "Mar 2022 - Jun 2025",
         bullets: [
             "Contributed to a growing catalog of human gene functions in a lab focused on analyzing high-dimensional genomic data and developing computational methods to study gene regulation and expression, particularly in relation to complex traits and diseases",
             "Trained gene expression prediction models for integration into S-Predixcan, a method that utilizes GWAS summary statistics to analyze gene expression associations with complex traits, in a supercomputing environment",
