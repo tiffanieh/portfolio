@@ -9,7 +9,7 @@ export const siteConfig = {
         github: "https://github.com/tiffanieh",
     },
     aboutMe:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+        "As a recent UChicago math grad with a soft spot for big questions and messy datasets, I’m dedicated to finding a quantitative approach for problems, from studying human gene functions to shaping climate change policy support to classifying underwater footage. I believe working with numbers (and what they reveal!) shouldn't feel like a barrier, and I try to bring that philosophy to everything I build. Also: devoted Ghibli fan, sci-fi enthusiast, cellist, and occasional writer.",
     skills: ["Python (NumPy, Tensorflow, PyTorch, Pandas),", "C", "R", "SQL", "git"],
     projects: [
         {
