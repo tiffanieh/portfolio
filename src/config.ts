@@ -10,7 +10,7 @@ export const siteConfig = {
     },
     aboutMe:
         "As a recent UChicago math grad with a soft spot for big questions and messy datasets, I’m dedicated to finding a quantitative approach for problems, from studying human gene functions to shaping climate change policy support to classifying underwater footage. I believe working with numbers (and what they reveal!) shouldn't feel like a barrier, and I try to bring that philosophy to everything I build. Also: devoted Ghibli fan, sci-fi enthusiast, cellist, and occasional writer.",
-    skills: ["Python (NumPy, Tensorflow, PyTorch, Pandas),", "C", "R", "SQL", "git"],
+    skills: ["Python (NumPy, Tensorflow, PyTorch, Pandas)", "C", "R", "SQL", "git"],
     projects: [
         {
         name: "Which frame fits? Policy learning with framing for climate change policy attitudes",
