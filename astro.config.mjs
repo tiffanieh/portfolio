@@ -9,5 +9,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://tiffanieh.github.io',
-  base: 'portfolio',
+  base: '/portfolio',
 });
