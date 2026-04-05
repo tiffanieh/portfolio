@@ -23,19 +23,21 @@ export const siteConfig = {
         name: "Underwater computer vision",
         description:
             "Transfer learning application for object detection and video summarization of marine dive footage for Schmidt Ocean Institute",
-        link: "https://datascience.uchicago.edu/people/tiffanie-huang/",
+        link: "https://datascience.uchicago.edu/people/tiffanie-huang",
         skills: ["Python", "PyTorch", "Docker", "git", "parallel programming"],
         },
         {
         name: "Python implementation of Go",
         description:
             "Playable Go game, including the game logic, a GUI, a terminal-based interface, a simple game-playing strategy, and tests (code available upon request)",
+        link: "https://extensionkit.io/?ref=devportfolio",
         skills: ["Python", "pygame", "pytest", "git"],
         },
         {
         name: "Finding gene expression prediction associations across different tissues for growing catalog of human gene functions",
         description:
             "Analyzing gene expression associations with complex traits from outputs of ENFORMER-trained prediction models (virtual lab notebook available upon request)",
+        link: "https://extensionkit.io/?ref=devportfolio",
         skills: ["Python", "bash", "TensorFlow", "Parsl", "high performance computing"]
         }
     ],
