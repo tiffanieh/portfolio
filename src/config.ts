@@ -90,6 +90,7 @@ export const siteConfig = {
         achievements: [
             "Major GPA 3.8 / 4.0",
             "National Merit Scholar",
+            "Relevant coursework: Linear Algebra; Real Analysis; Complex Analysis; Introduction to Mathematical Probability; Statistical Theory & Methods; Markov Chains, Martingales, and Brownian Motion; Measure & Integration; Systems Programming",
         ],
         },
     ],
