@@ -37,18 +37,16 @@ export const siteConfig = {
         description:
             "Analyzing gene expression associations with complex traits from outputs of ENFORMER-trained prediction models (virtual lab notebook available upon request)",
         skills: ["Python", "bash", "TensorFlow", "Parsl", "high performance computing"]
+        },
+        {
+        name: "Organically Capped Iridium Nanoparticles as High-Performance Bifunctional Electrocatalysts for Full Water Splitting in Both Acidic and Alkaline Media: Impacts of Metal−Ligand Interfacial Interactions",
+        description:
+            "An alternate source of catalysts for water splitting process in sustainable hydrogen production,",
+        link: "https://pubs.acs.org/doi/10.1021/acscatal.0c03747",
+        skills: ["Data analysis (FTIR, CV, EIS)", "experimental design"],
         }
     ],
     experience: [
-        {
-        company: "Data Science Institute, The University of Chicago",
-        title: "Course Assistant, Data Science Department",
-        dateRange: "Jan 2024 - Jun 2025",
-        bullets: [
-            "Develop homework rubrics for DATA 11800-11900: Introduction to Data Science I-II and DATA 26100: Statistical Pitfalls & Misinterpretation of Data",
-            "Graded and provided feedback for student assignments, labs, and projects on foundational topics such as probability, statistical methodology, data privacy, ethics, and basic machine learning",
-        ],
-        },
         {
         company: "Biological Sciences Division, The University of Chicago",
         title: "Quantitative Biology Research Fellow / Research Assistant to Professor Hae Kyung Im ",
@@ -59,7 +57,16 @@ export const siteConfig = {
             "Created scripts to query biosample objects from ENCODE project’s API and annotate target genomic tracks",
         ],
         },
-                {
+        {
+        company: "Data Science Institute, The University of Chicago",
+        title: "Course Assistant, Data Science Department",
+        dateRange: "Jan 2024 - Jun 2025",
+        bullets: [
+            "Develop homework rubrics for DATA 11800-11900: Introduction to Data Science I-II and DATA 26100: Statistical Pitfalls & Misinterpretation of Data",
+            "Graded and provided feedback for student assignments, labs, and projects on foundational topics such as probability, statistical methodology, data privacy, ethics, and basic machine learning",
+        ],
+        },
+        {
         company: "Biological Sciences Division, The University of Chicago",
         title: "Teaching Assistant",
         dateRange: "Mar 2023 - Jun 2025",
@@ -79,6 +86,26 @@ export const siteConfig = {
             "Performed video summarization, identifying key frames to enhance the searchability and accessibility of footage",
         ],
         },
+        {
+        company: "Ocean Sciences Division, University of California, Santa Cruz",
+        title: "Research Assistant",
+        dateRange: "Jun 2020 - Aug 2020",
+        bullets: [
+            "Collected and processed observational datasets using NumPy/NetCDF to study the ocean as a driving force for weather and climate, focusing on the Pacific Blob area",
+            "Found significant relationships between sea surface temperature, surface level pressure, and surface air temperature in the Northeastern Pacific area and North America",
+        ],
+        },
+        {
+        company: "Chemistry & Biochemistry Division, University of California, Santa Cruz",
+        title: "Research Assistant",
+        dateRange: "Jun 2019 - Sep 2019",
+        bullets: [
+            "Researched catalysts in water splitting process and impacts of metal-ligand interfacial interactions, using characterization techniques to study functionalized nanoparticles and their properties",
+            "Performed analysis and conducted experiments including material synthesis, characterization, and electrochemistry tests in a wet lab setting",
+            "Awarded Top Presentation in Chemistry category at 2019 Sigma Xi Research Conference in Madison, WI",
+            "Publication in ACS Catalysis",
+        ],
+        }
     ],
     education: [
         {
