@@ -39,7 +39,7 @@ export const siteConfig = {
         skills: ["Python", "bash", "TensorFlow", "Parsl", "high performance computing"]
         },
         {
-        name: "Organically Capped Iridium Nanoparticles as High-Performance Bifunctional Electrocatalysts for Full Water Splitting in Both Acidic and Alkaline Media: Impacts of Metal−Ligand Interfacial Interactions",
+        name: "Organically capped iridium nanoparticles as high-performance bifunctional electrocatalysts for full water splitting in acidic and alkaline media",
         description:
             "An alternate source of catalysts for water splitting process in sustainable hydrogen production,",
         link: "https://pubs.acs.org/doi/10.1021/acscatal.0c03747",
