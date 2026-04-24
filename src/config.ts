@@ -48,8 +48,8 @@ export const siteConfig = {
     ],
     experience: [
         {
-        company: "Biological Sciences Division, The University of Chicago",
-        title: "Quantitative Biology Research Fellow / Research Assistant to Professor Hae Kyung Im ",
+        company: "Department of Medicine, The University of Chicago",
+        title: "Quantitative Biology Research Fellow / Research Assistant at Im Lab",
         dateRange: "Mar 2022 - Jun 2025",
         bullets: [
             "Contributed to a growing catalog of human gene functions in a lab focused on analyzing high-dimensional genomic data and developing computational methods to study gene regulation and expression, particularly in relation to complex traits and diseases",
@@ -68,7 +68,7 @@ export const siteConfig = {
         ],
         },
         {
-        company: "Ocean Sciences Division, University of California, Santa Cruz",
+        company: "Ocean Sciences Division, UCSC",
         title: "Research Assistant",
         dateRange: "Jun 2020 - Aug 2020",
         bullets: [
@@ -77,7 +77,7 @@ export const siteConfig = {
         ],
         },
         {
-        company: "Chemistry & Biochemistry Division, University of California, Santa Cruz",
+        company: "Chemistry & Biochemistry Division, UCSC",
         title: "Research Assistant",
         dateRange: "Jun 2019 - Sep 2019",
         bullets: [
