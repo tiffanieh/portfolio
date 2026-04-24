@@ -9,7 +9,7 @@ export const siteConfig = {
         github: "https://github.com/tiffanieh",
     },
     aboutMe:
-        "As a recent UChicago math grad with a soft spot for big questions and messy datasets, I’m dedicated to finding a quantitative approach for problems, from studying human gene functions to shaping climate change policy support to classifying underwater footage. I believe working with numbers (and what they reveal!) shouldn't feel like a barrier, and I try to bring that philosophy to everything I build. Also: devoted Ghibli fan, sci-fi enthusiast, cellist, and occasional writer.",
+        "As a recent UChicago math grad with a soft spot for big questions and messy datasets, I’m dedicated to finding a quantitative approach for problems ranging from studying human gene functions to shaping climate change policy support to classifying underwater footage. I believe working with numbers (and what they reveal!) shouldn't feel like a barrier, and I try to bring that philosophy to everything I build. Other interests: Studio Ghibli films, sci-fi, cello, creative writing.",
     skills: ["Python (NumPy, Tensorflow, PyTorch, Pandas)", "C", "R", "SQL", "git"],
     projects: [
         {
@@ -59,25 +59,6 @@ export const siteConfig = {
         },
         {
         company: "Data Science Institute, The University of Chicago",
-        title: "Course Assistant, Data Science Department",
-        dateRange: "Jan 2024 - Jun 2025",
-        bullets: [
-            "Develop homework rubrics for DATA 11800-11900: Introduction to Data Science I-II and DATA 26100: Statistical Pitfalls & Misinterpretation of Data",
-            "Graded and provided feedback for student assignments, labs, and projects on foundational topics such as probability, statistical methodology, data privacy, ethics, and basic machine learning",
-        ],
-        },
-        {
-        company: "Biological Sciences Division, The University of Chicago",
-        title: "Teaching Assistant",
-        dateRange: "Mar 2023 - Jun 2025",
-        bullets: [
-            "Assisted in preparing curriculum for pre-health students for BIOS 20172: Mathematical Modeling for Biology, the quantitative methods course in the pre-med biology sequence that focuses on statistical analysis and mathematical modeling of biological data & processes",
-            "Graded and proofread homework assignments, quizzes, exams; held office hours 3-4 hours a week as well as review sessions; provided supplementary notes and review materials to prepare students for exams and address topics they found challenging",
-            "Introduced students to implementation of computational algorithms for biological data analysis and mathematical modeling using R in office hours and labs",
-        ],
-        },
-        {
-        company: "Data Science Institute, The University of Chicago",
         title: "Research Assistant, Schmidt Ocean Institute",
         dateRange: "Jun 2022 - Aug 2022",
         bullets: [
@@ -116,6 +97,7 @@ export const siteConfig = {
             "Major GPA 3.8 / 4.0",
             "National Merit Scholar",
             "Relevant coursework: Linear Algebra; Real Analysis; Complex Analysis; Introduction to Mathematical Probability; Statistical Theory & Methods; Markov Chains, Martingales, and Brownian Motion; Measure & Integration; Systems Programming",
+            "Course Assistant for DATA 261: Statistical Pitfalls & Misinterpretation of Data, DATA 118-119: Introduction to Data Science I-II, BIOS 20172: Mathematical Modeling for Biology"
         ],
         },
     ],
