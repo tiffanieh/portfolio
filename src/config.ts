@@ -97,7 +97,7 @@ export const siteConfig = {
             "Major GPA 3.8 / 4.0",
             "National Merit Scholar",
             "Relevant coursework: Linear Algebra; Real Analysis; Complex Analysis; Introduction to Mathematical Probability; Statistical Theory & Methods; Markov Chains, Martingales, and Brownian Motion; Measure & Integration; Systems Programming",
-            "Course Assistant for DATA 261: Statistical Pitfalls & Misinterpretation of Data, DATA 118-119: Introduction to Data Science I-II, BIOS 20172: Mathematical Modeling for Biology"
+            "Teaching/Course Assistant for DATA 261: Statistical Pitfalls & Misinterpretation of Data, DATA 118-119: Introduction to Data Science I-II, BIOS 20172: Mathematical Modeling for Biology"
         ],
         },
     ],
