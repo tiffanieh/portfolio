@@ -79,7 +79,7 @@ export const siteConfig = {
         {
         company: "Chemistry & Biochemistry Division, UCSC",
         title: "Research Assistant",
-        dateRange: "Jun 2019 - Sep 2019",
+        dateRange: "Jun 2019 - Nov 2019",
         bullets: [
             "Researched catalysts in water splitting process and impacts of metal-ligand interfacial interactions, using characterization techniques to study functionalized nanoparticles and their properties",
             "Performed analysis and conducted experiments including material synthesis, characterization, and electrochemistry tests in a wet lab setting",
