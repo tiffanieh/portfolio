@@ -9,7 +9,7 @@ export const siteConfig = {
         github: "https://github.com/tiffanieh",
     },
     aboutMe:
-        "As a recent UChicago math grad with a soft spot for big questions and messy datasets, I’m dedicated to finding a quantitative approach for problems ranging from studying human gene functions to shaping climate change policy support to classifying underwater footage. I believe working with numbers (and what they reveal!) shouldn't feel like a barrier, and I try to bring that philosophy to everything I build. Other interests: Studio Ghibli films, sci-fi, cello, creative writing.",
+        "Hello! I’m a recent UChicago graduate dedicated to finding a quantitative approach for problems ranging from studying human gene functions to shaping climate change policy support to classifying underwater footage. I believe working with numbers (and what they reveal!) shouldn't feel like a barrier, and I try to bring that philosophy to everything I build. Other interests: Studio Ghibli films, sci-fi, cello, creative writing.",
     skills: ["Python (NumPy, Tensorflow, PyTorch, Pandas)", "C", "R", "SQL", "git"],
     projects: [
         {
