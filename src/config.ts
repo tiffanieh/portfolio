@@ -49,7 +49,7 @@ export const siteConfig = {
     experience: [
         {
         company: "Department of Medicine, The University of Chicago",
-        title: "Quantitative Biology Research Fellow / Research Assistant at Im Lab",
+        title: "Quantitative Research Fellow / Research Assistant at Im Lab",
         dateRange: "Mar 2022 - Jun 2025",
         bullets: [
             "Contributed to a growing catalog of human gene functions in a lab focused on analyzing high-dimensional genomic data and developing computational methods to study gene regulation and expression, particularly in relation to complex traits and diseases",
