@@ -48,6 +48,15 @@ export const siteConfig = {
     ],
     experience: [
         {
+        company: "Hockey Operations, Chicago Blackhawks",
+        title: "Data Science Intern, Hockey Strategy & Analytics",
+        dateRange: "Sep 2026 - Present",
+        bullets: [
+            "Analyzing which organizations, leagues, or teams (NCAA, CHL, etc.) develop players/add the most value; e.g. analyzing changes in NCAA player projections over time across different time horizons, along with a suite of player/season/game characteristics",
+            "Predicted player abilities from NHL scouting combine test results and internal combine evaluation reports to streamline performance coach evaluations, finding which areas of the combine had the most impact across different models",
+        ],
+        },
+        {
         company: "Department of Medicine, The University of Chicago",
         title: "Quantitative Research Fellow / Research Assistant at Im Lab",
         dateRange: "Mar 2022 - Jun 2025",
